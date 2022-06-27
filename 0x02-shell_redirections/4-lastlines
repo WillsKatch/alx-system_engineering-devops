@@ -1,2 +1,2 @@
 #!/bin/bash
-ls -lt | tail my_file /etc/passwd
+ls -lt | tail /etc/passwd
